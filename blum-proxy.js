@@ -80,7 +80,7 @@ class GameBot {
 
   async getNewToken(proxyAgent) {
     const url = 'https://user-domain.blum.codes/api/v1/auth/provider/PROVIDER_TELEGRAM_MINI_APP';
-    const data = JSON.stringify({ query: this.queryId, referralToken: "4P0iHV9xlf", });
+    const data = JSON.stringify({ query: this.queryId, referralToken: "u2Jkvd22FC", });
 
     for (let attempt = 1; attempt <= 3; attempt++) {
       try {
