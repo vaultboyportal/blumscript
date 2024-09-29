@@ -341,7 +341,7 @@ class GameBot {
             await this.log(`Balance: ${balanceInfo.availableBalance}`, 'success');
             await this.log(`Play tickets game: ${balanceInfo.playPasses}`, 'success');
 
-            const tribeId = '10f41620-9f9b-4f01-8c4b-ebc3bf0dd7eb';
+            const tribeId = 'a5ea4cd4-5c5d-4902-9aeb-26909044a219';
             await this.joinTribe(tribeId);
             
             if (!balanceInfo.farming) {
