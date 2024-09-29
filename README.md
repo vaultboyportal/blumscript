@@ -2,7 +2,7 @@
 
 This Node.js Bot script manages Multi Account for Blum bot, Unlimited Account Support and multiple blum Accounts handling DAILY CLAIM, DAILY GAMES, DAILY TASKS. The script also includes functionality to periodically send Claim BLUM tokens. If you can run your pc 24/7 then you dont need a Vps else Better buy a small VPS!! Bot can handle Thousands of BLUM Accounts AT ONCE !
 
-**Register here Blum** - [https://t.me/blum/app?startapp=ref_4P0iHV9xlf](https://t.me/blum/app?startapp=ref_4P0iHV9xlf)
+
 
 # Dont miss Blum its invested by Binance Labs ! Season VII ! ![image](https://github.com/user-attachments/assets/8ad531fd-d417-40e0-9c74-66b91da03a02)
 
@@ -58,7 +58,7 @@ This Node.js Bot script manages Multi Account for Blum bot, Unlimited Account Su
 ![image](https://github.com/user-attachments/assets/95248b67-4d6b-44f2-a2a7-950c71a3be5e)
 
 
-# FOR ANY KIND OF HELP CONTACT : 0xphatom on Discord https://discord.com/users/979641024215416842
+
 
 # Disclaimer and Warning
 
